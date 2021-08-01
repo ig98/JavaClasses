@@ -1,0 +1,12 @@
+8
+ivanov ivan ivanovich 31 03 2004 address1 4268319 pedagogical 3 P-31
+sidorov sidor sidorovich 17 12 2005 address2 8493027 math 2 PM-21
+petrov petr petrovich 25 09 2000 address3 5371244 biological 1 B-11
+yakovlev ivan yakovlevich 09 02 2003 address4 3849327 pedagogical 4 P-41
+pavlov pavel pavlovich 26 01 1996 address5 2456839 math 4 PM-41
+aleksandrov aleksandr ivanovich 24 10 2002 address6 4583791 biological 3 B-31
+kuznetsov ivan pavlovich 30 11 2006 address7 3718241 math 1 PM-11
+vlasov vlad aleksandrovich 15 11 2002 address8 5371891 pedagogical 4 P-41
+biological
+2003
+P-41
